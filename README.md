@@ -9,8 +9,8 @@
 6. Enhancement Two: Algorithms & Data Structures
 7. Enhancement Three: Databases
 
-### Code Review [([)](https://youtu.be/oO9biRC0Gvc)![image](https://user-images.githubusercontent.com/96343312/219906503-e48d7203-b3e5-43f3-adb3-336ab24bec99.png)
-}
+### [Code Review Link](https://youtu.be/oO9biRC0Gvc)![image](https://user-images.githubusercontent.com/96343312/219906554-643980d7-c575-4e38-9b68-35924467fcb4.png)
+
 
 
 
