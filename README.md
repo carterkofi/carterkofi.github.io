@@ -2,8 +2,8 @@
 
 ### Table of Contents
 1. Code Review
-2. Artifact (Used one artifact for all three enhancement categories.)
-3. Enhanced Artifact (Used one artifact for all three enhancement categories.)
+2. Artifact (One artifact was used for all three enhancement categories.)
+3. Enhanced Artifact (One artifact was used for all three enhancement categories.)
 4. Professional Self-Assessment
 5. Enhancement One: Software Design & Engineering
 6. Enhancement Two: Algorithms & Data Structures
@@ -47,6 +47,8 @@ The artifact that I picked for the software engineering/design category is the A
 |7)	The new web app was designed so that the user can click on a record to view all the data in that record only and edit or delete it. *This enhancement shows that I have designed, developed, and delivered professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts. It shows that I demonstrated an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals.*|
 |8)	The new web app was designed with a sync button (as well as pull down to sync for touch screens) to make sure all data in the table is up to date. *This enhancement shows that I demonstrated an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals.*|
 |9)	Added secure login authentication component to new web app. This security enhancement is the implementation of single sign-on authentication (SSO). Using this method, users that have been invited, do not have to create a new username and password for the app to get access. Instead, they can login with their existing credentials from one of the authentication providers listed as long as the app administrator has been provided with the user’s email address to send an invite email. *This enhancement shows that I have employed strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science. It shows that I demonstrated an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals. It shows that I have developed a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources.*|
+
+Through these enhancements I have met the course objectives that I planned in Module One in the following ways: it shows my ability to convert one code stack to another, enhance the user experience, expand the web app’s complexity, and improve a piece of software, and implement a new security component. Reflecting on the process of enhancing/modifying the artifact, I have learned how to search out the tools and frameworks that will allow me to achieve my enhancement plans most effectively and efficiently. The challenges that I faced was in selecting the right tools and frameworks that would make up a viable web app stack for my enhanced artifact.
 
 
 
