@@ -20,6 +20,9 @@ In my CS-310 Collaboration and Team Project course, I gained skills in how to co
   
 The artifact that I chose to demonstrate my computer science abilities in all three categories is the Animal Shelter Collection web application from CS-340 Client/Server Development. I have made enhancements to this web application in software design and engineering, algorithms and data structures, and databases. These are all components that form the “stack” in software applications. They are also all areas that are integral to developing any piece of software and necessary to become a back-end, front-end, or full-stack developer. 
 
+### 5. Enhancement One: Software Design & Engineering
+
+
 
 
 
