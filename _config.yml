@@ -1,7 +1,6 @@
 remote_theme: pages-themes/slate@v0.2.0
-title: Welcome to carterkofi's homepage!
+title: Welcome to Kofi Carter's homepage!
 description: Feel free to bookmark this to keep an eye on my project updates.
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-body: this is a test
 
