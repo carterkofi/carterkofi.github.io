@@ -22,9 +22,9 @@ The artifact that I chose to demonstrate my computer science abilities in all th
 
 ### 5. Enhancement One: Software Design & Engineering
 
-|   Atifact     |
+|   Artifact     |
 | ------------- |
-|1) Old web app stack used (MongoDB, Python, PyMongo, JavaScript, HTML, Jupyter Dash) was complex and cumbersome to set up. It also involved converting the data from the spreadsheet (csv file) to a JSON file so that MongoDB could read it.|
+|1) Old web app stack used (MongoDB, Python, PyMongo, JavaScript, HTML, Jupyter Dash) was complex and cumbersome to set up. It also involved converting the data from    the spreadsheet (csv file) to a JSON file so that MongoDB could read it.|
 |2) Old web app does not auto format to a computer, phone, or tablet screen.|
 |3) Old web app does not have a search bar.|
 |4) On old web app, the user can look through the database table only ten records at a time.|
@@ -34,11 +34,24 @@ The artifact that I chose to demonstrate my computer science abilities in all th
 |8) The old web app does not have a way of refreshing the data in the table to make sure it is up-to-date other than the web browser’s refresh button.|
 |9) The old app required a new username and password before each user could get access to making any changes to the app.|
 
+| Artifact Enhancement  |
+| --------------------- |
+|1)	New web app stack was simpler to set up (Google Sheets, Google AppSheet). No conversion of the spreadsheet data was needed. Yet, data can be added, read, edited, and deleted and accessed by any authorized user.|
+|2)	New web app designed to auto format to a computer, phone, or tablet screen.|
+|3)	New web app designed with a search bar with index capabilities which allows the user to keyword search the entire database and get instant results.|
+|4)	The new web app was designed so that the user can scroll through records of the entire database on one page.|
+|5)	The new web app was designed so that the user can filter their search by column by clicking the filter button and picking what to filter by.|
+|6)	The new web app was designed so that the user can add, edit, and delete through the Graphical user Interface (GUI).|
+|7)	The new web app was designed so that the user can click on a record to view all the data in that record only and edit or delete it.|
+|8)	The new web app was designed with a sync button (as well as pull down to sync for touch screens) to make sure all data in the table is up to date.|
+|9)	Added secure login authentication component to new web app. This security enhancement is the implementation of single sign-on authentication (SSO). Using this method, users that have been invited, do not have to create a new username and password for the app to get access. Instead, they can login with their existing credentials from one of the authentication providers listed as long as the app administrator has been provided with the user’s email address to send an invite email.|
 
 
 
 
-| Content Cell  |
+
+
+
 
 
 
