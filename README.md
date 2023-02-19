@@ -50,6 +50,17 @@ The artifact that I picked for the software engineering/design category is the A
 
 Through these enhancements I have met the course objectives that I planned in Module One in the following ways: it shows my ability to convert one code stack to another, enhance the user experience, expand the web app’s complexity, and improve a piece of software, and implement a new security component. Reflecting on the process of enhancing/modifying the artifact, I have learned how to search out the tools and frameworks that will allow me to achieve my enhancement plans most effectively and efficiently. The challenges that I faced was in selecting the right tools and frameworks that would make up a viable web app stack for my enhanced artifact.
 
+### 5. Enhancement Two: Algorithms & Data Structures
+The artifact that I picked for the algorithm and data structures category is the Animal Shelter Collection web application from CS-340 Client/Server Development. The purpose of that project, which was created about four months ago, was to demonstrate skills in creating a Create, Read, Update, and Delete (CRUD) web application for interacting with the data in the database. In this case, the database contained records of all the animals in a shelter. The reason I selected this artifact is because in applying my enhancements, it demonstrates my abilities in algorithms and data structures. Please see the two tables below for an explanation of specifically how the artifact has been enhanced and how it showcases my skills in software development. The first table is a list of features from the artifact that I selected to be enhanced. The second table is how I enhanced those features.
+
+|   Artifact     |
+| -------------  |
+|1) Old web app shows the location of one animal at a time as one drop pin on a map.|
+
+|   Artifact Enhancement & Outcomes Reached     |
+| -------------  |
+|1)	For new web app, I integrated a map component that allows users to click on a drop pin icon to see the location of an animal on a Google map and to also expand the map to a drop pin location of all animals in the database at the same time. I created another column in the spreadsheet called “map” to combine data from the “location_lat” and “location_long” columns and convert the “decimal” data type to the “LatLong” data type so that the latitude and longitude data can be displayed as a drop pin on a Google map. Users can also jump to any record by clicking on any other drop pin on the map.|
+
 
 
 
