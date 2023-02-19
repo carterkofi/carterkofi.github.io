@@ -1,4 +1,4 @@
-# [carterkofi.github.io](www.carterkofi.github.io)
+# [carterkofi.github.io](carterkofi.github.io)
 
 ### Table of Contents
 1. Code Review
