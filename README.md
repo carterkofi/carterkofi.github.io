@@ -22,6 +22,24 @@ The artifact that I chose to demonstrate my computer science abilities in all th
 
 ### 5. Enhancement One: Software Design & Engineering
 
+|   Atifact     |
+| ------------- |
+|1) Old web app stack used (MongoDB, Python, PyMongo, JavaScript, HTML, Jupyter Dash) was complex and cumbersome to set up. It also involved converting the data from the spreadsheet (csv file) to a JSON file so that MongoDB could read it.|
+|2) Old web app does not auto format to a computer, phone, or tablet screen.|
+|3) Old web app does not have a search bar.|
+|4) On old web app, the user can look through the database table only ten records at a time.|
+|5) On old web app, the user cannot filter their search by column.|
+|6) On old web app, the user can only add, edit, or delete a record through the terminal or command line interface (CLI).|
+|7) On old web app, the user cannot click on a record to view all the data in that record only.|
+|8) The old web app does not have a way of refreshing the data in the table to make sure it is up-to-date other than the web browser’s refresh button.|
+|9) The old app required a new username and password before each user could get access to making any changes to the app.|
+
+
+
+
+
+| Content Cell  |
+
 
 
 
