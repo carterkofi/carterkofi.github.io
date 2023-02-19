@@ -11,7 +11,7 @@
 
 ### 1. Code Review: [YouTube Video Link](https://youtu.be/oO9biRC0Gvc)
 ### 2. Artifact: [Project Files Link](https://github.com/carterkofi/CS-340-Project-2)
-### 3. Enhanced Artifact: [Web App Link](https://www.appsheet.com/start/0d93b73d-133e-4989-a6f5-546bcf569d4a)
+### 3. Enhanced Artifact: [Project Files Link](https://github.com/carterkofi/CS-340-Project-2), [Web App Link](https://www.appsheet.com/start/0d93b73d-133e-4989-a6f5-546bcf569d4a)
 
 ### 4. Professional Self-Assessment
 As I approach completing my degree in computer science, I am looking forward to beginning my career in the tech industry and using the skills that I have gained in my studies to add value to whatever organization I choose to work for. Throughout my time in the computer science program at Southern New Hampshire University I have gained experience in how to collaborate in a team environment, communicate to stakeholders, data structures and algorithms, software engineering, databases, and security.
