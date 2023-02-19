@@ -2,8 +2,8 @@
 
 ### Table of Contents
 1. Code Review
-2. Artifact
-3. Enhanced Artifact
+2. Artifact (Used one artifact for all three enhancement categories.)
+3. Enhanced Artifact (Used one artifact for all three enhancement categories.)
 4. Professional Self-Assessment
 5. Enhancement One: Software Design & Engineering
 6. Enhancement Two: Algorithms & Data Structures
