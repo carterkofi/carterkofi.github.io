@@ -26,7 +26,7 @@ The artifact that I picked for the software engineering/design category is the A
 
 |   Artifact     |
 | ------------- |
-|1) Old web app stack used (MongoDB, Python, PyMongo, JavaScript, HTML, Jupyter Dash) was complex and cumbersome to set up. It also involved converting the data from    the spreadsheet (csv file) to a JSON file so that MongoDB could read it.|
+|1) Old web app stack used (MongoDB, Python, PyMongo, JavaScript, HTML, Jupyter Dash) and was complex and cumbersome to set up. It also involved converting the data from    the spreadsheet (csv file) to a JSON file so that MongoDB could read it.|
 |2) Old web app does not auto format to a computer, phone, or tablet screen.|
 |3) Old web app does not have a search bar.|
 |4) On old web app, the user can look through the database table only ten records at a time.|
